@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/lenovo_ideapad_gaming3-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="30"/> 
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="30"/> 
+
 ---
 
 ### 🔥 Featured Projects
