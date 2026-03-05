@@ -71,14 +71,13 @@ Check out my portfolio: [Portfolio Website](https://sheikabdullahpm.github.io/sh
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&theme=radical&show_icons=true&hide=issues&count_private=true)
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&show_icons=true&count_private=true&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikabdullahpm&bg_color=000000&color=00ff00&line=ff0000&point=ffffff&area=true)
 
 ---
 
 ### 💻 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/sheikabdullahpm?theme=chartreuse&font=Frank%20Ruhl%20Libre&ext=heatmap)(https://leetcode.com/sheikabdullahpm)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sheikabdullahpm?theme=chartreuse&font=Frank%20Ruhl%20Libre&ext=heatmap)
 
 ---
 
