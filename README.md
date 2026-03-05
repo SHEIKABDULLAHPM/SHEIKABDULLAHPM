@@ -100,7 +100,7 @@
 ![Java](https://img.shields.io/badge/Java-80%25-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge)
 ![React/Node.js](https://img.shields.io/badge/React/Node-70%25-lightblue?style=for-the-badge)
-![AI/ML](https://img.shields.io/badge/AI-ML-60%25-orange?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI-ML-60percent-orange?style=for-the-badge)
 
 ---
 
