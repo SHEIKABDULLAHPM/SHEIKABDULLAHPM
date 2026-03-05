@@ -100,6 +100,14 @@
 
 ### 🎓 Certifications
 
-[![Oracle Java SE 17](https://img.shields.io/badge/Oracle-Certified%20Java%20SE%2017-F80000?style=for-the-badge&logo=oracle&logoColor=white)](ADD_CERTIFICATE_LINK)
+<p align="center">
 
-[![Oracle AI Foundations](https://img.shields.io/badge/Oracle-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](ADD_CERTIFICATE_LINK)
+<a href="YOUR_CERTIFICATE_LINK">
+<img src="https://images.credly.com/size/220x220/images/8bfa6d90-1f3c-4e5f-9c1a-9d6e7f3f92d3/oracle-certified-professional-java-se-17-developer.png" height="120"/>
+</a>
+
+<a href="YOUR_CERTIFICATE_LINK">
+<img src="https://images.credly.com/size/220x220/images/6b9b4a1f-9d5c-4c8e-8b1d-45b8c7e2a2d1/oracle-ai-foundations-associate.png" height="120"/>
+</a>
+
+</p>
