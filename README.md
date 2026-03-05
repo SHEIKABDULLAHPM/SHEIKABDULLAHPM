@@ -78,7 +78,7 @@ Check out my portfolio: [Portfolio Website](https://sheikabdullahpm.github.io/sh
 ---
 
 ### 💻 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sheikabdullahpm?ext=contest&theme=dark)](https://leetcode.com/sheikabdullahpm)
+[![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/sheikabdullahpm?theme=catppuccinMocha&font=Fira%20Code&ext=contest))](https://leetcode.com/sheikabdullahpm)
 
 ---
 
