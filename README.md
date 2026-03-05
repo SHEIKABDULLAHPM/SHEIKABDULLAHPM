@@ -81,8 +81,7 @@
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm)](https://github.com/sheikabdullahpm/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&theme=radical&show_icons=true&hide=issues&count_private=true)  
+[![Sheik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikabdullahpm&theme=radical&area=true)  
 
 ---
