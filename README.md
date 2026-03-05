@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sheik Abdullah
 
-<img align="right" width="250" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 **Aspiring Software Engineer | B.Tech CSBS Student**  
 🔭 Currently exploring **DSA, AI/ML & Web Development**  
@@ -9,20 +9,13 @@
 ---
 
 ### 🌐 Portfolio
-Check out my portfolio: [Portfolio Website](https://yourportfolio.com)
-
----
-
-### ⚡ Fun Fact
-- I know **Japanese** 🗾  
-- Love coding, hackathons, and tech challenges 💻  
+Check out my portfolio: [Portfolio Website](https://sheikabdullahpm.github.io/sheik-portfolio/)
 
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheik-abdullah/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourinstagram/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peer-sheik-abdullah-mohd-noordeen-b97148276/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unary_man/)  
 
 ---
 
@@ -78,14 +71,14 @@ Check out my portfolio: [Portfolio Website](https://yourportfolio.com)
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&show_icons=true&hide=issues&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&theme=radical&show_icons=true&hide=issues&count_private=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=000000&color=00ff00&line=ff0000&point=ffffff&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikabdullahpm&bg_color=000000&color=00ff00&line=ff0000&point=ffffff&area=true)
 
 ---
 
 ### 💻 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?ext=contest&theme=dark)](https://leetcode.com/yourusername)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sheikabdullahpm?ext=contest&theme=dark)](https://leetcode.com/sheikabdullahpm)
 
 ---
 
@@ -108,14 +101,3 @@ Check out my portfolio: [Portfolio Website](https://yourportfolio.com)
 **AI / ML**  
 <progress value="60" max="100"></progress>  
 
----
-
-### ✨ Animated / 3D Effects
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="120" />  
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="120" />
-</p>
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
