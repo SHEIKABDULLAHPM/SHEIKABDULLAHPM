@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sheik Abdullah
 
-<img align="right" width="220" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
+<img align="right" width="250" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
 
 **Aspiring Software Engineer | B.Tech CSBS Student**  
 🔭 Currently exploring **DSA, AI/ML & Web Development**  
@@ -15,7 +15,7 @@ Check out my portfolio: [Portfolio Website](https://yourportfolio.com)
 
 ### ⚡ Fun Fact
 - I know **Japanese** 🗾  
-- Love coding, hackathons, and exploring new tech challenges 💻  
+- Love coding, hackathons, and tech challenges 💻  
 
 ---
 
@@ -42,6 +42,7 @@ Check out my portfolio: [Portfolio Website](https://yourportfolio.com)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" class="spinning"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" class="spinning"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" class="spinning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="60" class="spinning"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" class="spinning"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" class="spinning"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" class="spinning"/>
@@ -84,13 +85,13 @@ Check out my portfolio: [Portfolio Website](https://yourportfolio.com)
 ---
 
 ### 💻 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sheikabdullah?ext=contest&theme=dark)](https://leetcode.com/sheikabdullah)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?ext=contest&theme=dark)](https://leetcode.com/yourusername)
 
 ---
 
 ### 🔭 Currently Learning
 - Advanced **DSA & Algorithms**  
-- **MERN Stack & AI integration**  
+- **MERN Stack & AI/ML integration**  
 - **Web & Mobile App Development**
 
 ---
