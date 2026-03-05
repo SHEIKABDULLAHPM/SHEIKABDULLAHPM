@@ -9,7 +9,7 @@
 ---
 
 ### 🌐 Portfolio
-Check out my portfolio: [Portfolio Website](https://sheikabdullahpm.github.io/sheik-portfolio/)
+[Portfolio Website](https://sheikabdullahpm.github.io/sheik-portfolio/)
 
 ---
 
@@ -20,36 +20,15 @@ Check out my portfolio: [Portfolio Website](https://sheikabdullahpm.github.io/sh
 
 ---
 
-### 🛠 Tech Stack
-
-#### Programming / Frameworks
+### 🛠 Tech Stack (Hoverable & Animated)
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" title="Python" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" title="Java" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" title="JavaScript" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" title="React" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" title="Node.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" title="MongoDB" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/></a>
 </p>
-
-#### IDEs / Tools
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="50"/>
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" height="50"/>
-</p>
-
----
-
-### 💻 Workspace
-<img src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white" height="30"/> 
-<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="30"/>  
-<img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="30"/>  
 
 ---
 
@@ -65,7 +44,7 @@ Check out my portfolio: [Portfolio Website](https://sheikabdullahpm.github.io/sh
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&theme=radical&show_icons=true&hide_title=false&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikabdullahpm&layout=compact&theme=radical)
 
 ---
@@ -81,12 +60,12 @@ Check out my portfolio: [Portfolio Website](https://sheikabdullahpm.github.io/sh
 
 ---
 
-### 📈 Skill Progress
-**Python** ![Python](https://img.shields.io/badge/Python-90%25-brightgreen)  
-**Java** ![Java](https://img.shields.io/badge/Java-80%25-blue)  
-**JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow)  
-**React / Node.js** ![React/Node.js](https://img.shields.io/badge/React/Node-70%25-lightblue)  
-**AI / ML** ![AI/ML](https://img.shields.io/badge/AI-ML-60%25-orange)
+### 📈 Skill Progress (Animated Badges)
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-80%25-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge)
+![React/Node.js](https://img.shields.io/badge/React/Node-70%25-lightblue?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI-ML-60%25-orange?style=for-the-badge)
 
 ---
 
