@@ -8,11 +8,6 @@
 
 ---
 
-### 🌐 Portfolio
-[Portfolio Website](https://sheikabdullahpm.github.io/sheik-portfolio/)
-
----
-
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peer-sheik-abdullah-mohd-noordeen-b97148276/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unary_man/)  
