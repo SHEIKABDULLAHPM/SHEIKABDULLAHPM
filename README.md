@@ -103,11 +103,11 @@
 <p align="center">
 
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=317D506B43124425278B19D0E39CA255F0C52002EEE44F28D5A34D90FE262F76">
-<img src="https://images.credly.com/size/220x220/images/8bfa6d90-1f3c-4e5f-9c1a-9d6e7f3f92d3/oracle-certified-professional-java-se-17-developer.png" height="120"/>
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE17.png" height="120"/>
 </a>
 
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=47DE7E70BAA39A7EBE70C30C801F39FD52C3690A2DCD7589D2BAEB9E6560D1FA">
-<img src="https://images.credly.com/size/220x220/images/6b9b4a1f-9d5c-4c8e-8b1d-45b8c7e2a2d1/oracle-ai-foundations-associate.png" height="120"/>
+<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" height="120"/>
 </a>
 
 </p>
