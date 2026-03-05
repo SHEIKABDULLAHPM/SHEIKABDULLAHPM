@@ -65,8 +65,14 @@ Check out my portfolio: [Portfolio Website](https://sheikabdullahpm.github.io/sh
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&theme=radical&show_icons=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&theme=radical&show_icons=true&hide_title=false&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikabdullahpm&layout=compact&theme=radical)
+
+---
+
+### 📈 GitHub Streak & Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheikabdullahpm&theme=radical&hide_border=false)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sheikabdullahpm&theme=react-dark&area=true)
 
 ---
 
