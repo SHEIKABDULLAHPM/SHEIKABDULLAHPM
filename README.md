@@ -1,27 +1,16 @@
 ## Hi there 👋 I'm Sheik Abdullah
 
-<img align="right" width="200" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
+<img align="right" width="220" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
 
 **Aspiring Software Engineer | B.Tech CSBS Student**  
-🔭 Currently working on **Web & AI projects**  
-🌱 Learning **DSA, MERN Stack & AI/ML integration**  
-💡 Passionate about building impactful software & exploring new tech  
-
----
-
-### 🏢 Internship / Projects
-- 🚀 Internship: **Crayond** – Frontend Developer | Smart Hostel & Mess Management  
-- 💻 Projects:  
-  - [Learning & Assessment Portal](https://github.com/yourusername/learning-and-assessment-portal)  
-  - [Text-to-Image Gen AI](https://github.com/yourusername/text-to-image-gen-ai)  
-  - [AI Career Path Planner](https://github.com/yourusername/ai-careerpath)  
-- 🎖 Certifications: Oracle Java SE17, AI Foundations  
+🔭 Currently exploring **DSA, AI/ML & Web Development**  
+🌱 Passionate about building impactful software & learning new tech  
 
 ---
 
 ### ⚡ Fun Fact
 - I know **Japanese** 🗾  
-- Love **tech, coding, and hackathons**  
+- Love coding, hackathons, and tech challenges 💻  
 
 ---
 
@@ -33,12 +22,28 @@
 ---
 
 ### 🛠 I Code In
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,react,nodejs,mongodb,bootstrap,sass,graphql,tensorflow,firebase" height="50"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" class="spinning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" class="spinning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" class="spinning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" class="spinning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" class="spinning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" class="spinning"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" class="spinning"/>
+</p>
+
+*✨ Fun effect: 3D spinning icons!*
 
 ---
 
 ### 🛠 Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vs code,pycharm,git,figma,photoshop,notion,xd,anaconda,eclipse" height="50"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="50"/>
+</p>
 
 ---
 
@@ -63,19 +68,31 @@
 
 ### 🔭 Currently Learning
 - Advanced **DSA & Algorithms**  
-- **MERN stack projects**  
-- **AI & Machine Learning integration**
+- **MERN stack & AI integration**  
+- **Web & Mobile App Development**
 
 ---
 
-### 🌟 Fun / 3D / Animated Icons Section
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+### 📈 Skill Progress
+**Python**  
+<progress value="90" max="100"></progress>  
+**Java**  
+<progress value="80" max="100"></progress>  
+**JavaScript**  
+<progress value="75" max="100"></progress>  
+**React / Node.js**  
+<progress value="70" max="100"></progress>  
+**AI / ML**  
+<progress value="60" max="100"></progress>  
 
 ---
 
-### ⚡ Fun Fact
+### ✨ Dark / Light Section with GIFs
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" height="120" />  
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="120" />
+</p>
+
+---
+
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
