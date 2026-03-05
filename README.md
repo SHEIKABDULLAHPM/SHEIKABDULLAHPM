@@ -72,10 +72,10 @@
 | Project | Tech Stack | Demo |
 |---------|------------|------|
 | [Learning & Assessment Portal](https://github.com/sheikabdullahpm/learning-and-assessment-portal) | MERN, JS | [Live Demo](#) |
-| [Mental Health Support](https://github.com/sheikabdullahpm/mental-health-support) | React, Firebase | [Live Demo](#) |
-| [Text-to-Image Gen AI](https://github.com/sheikabdullahpm/text-to-image-gen-ai) | Flask, React | [Live Demo](#) |
-| [AI Career Path](https://github.com/sheikabdullahpm/ai-careerpath) | Python, JS | [Live Demo](#) |
-| [Smart Hostel & Mess Management](https://github.com/sheikabdullahpm/smart-hostel-and-mess-management) | Java, MySQL | [Live Demo](#) |
+| [Mental Health Support](https://github.com/sheikabdullahpm/mental-health-support) | React, Flask | [Live Demo](https://mental-health-support-sheik-abdullah-p-ms-projects.vercel.app/welcome) |
+| [Text-to-Image Gen AI](https://github.com/sheikabdullahpm/text-to-image-gen-ai) | React, LLMs | [Live Demo](https://text-to-image-gen-ai-git-main-sheik-abdullah-p-ms-projects.vercel.app/) |
+| [AI Career Path](https://github.com/sheikabdullahpm/ai-careerpath) | Next, Node | [Live Demo](#) |
+| [Smart Hostel & Mess Management](https://github.com/sheikabdullahpm/smart-hostel-and-mess-management) | React , MUI | [Live Demo](https://smart-hostel-and-mess-management.vercel.app/) |
 
 ---
 
