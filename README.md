@@ -100,6 +100,6 @@
 
 ### 🎓 Certifications
 
-![Oracle Java SE 17](https://img.shields.io/badge/Oracle-Certified%20Java%20SE%2017-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+[![Oracle Java SE 17](https://img.shields.io/badge/Oracle-Certified%20Java%20SE%2017-F80000?style=for-the-badge&logo=oracle&logoColor=white)](ADD_CERTIFICATE_LINK)
 
-![Oracle AI Foundations](https://img.shields.io/badge/Oracle-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+[![Oracle AI Foundations](https://img.shields.io/badge/Oracle-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](ADD_CERTIFICATE_LINK)
