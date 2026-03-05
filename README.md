@@ -143,8 +143,9 @@
 
 # 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=sheikabdullahpm\&theme=algolia\&no-frame=true\&margin-w=10)
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sheikabdullahpm&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
 ---
 
 # 📈 Contribution Snake
