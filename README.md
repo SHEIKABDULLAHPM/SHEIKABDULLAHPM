@@ -66,15 +66,12 @@
 
 ---
 
-# 🔥 Featured Projects
-
-| Project                                                                                               | Tech Stack   | Demo                                                                          |
-| ----------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------- |
-| [Learning & Assessment Portal](https://github.com/sheikabdullahpm/learning-and-assessment-portal)     | MERN, JS     | Live Demo                                                                     |
-| [Mental Health Support](https://github.com/sheikabdullahpm/mental-health-support)                     | React, Flask | https://mental-health-support-sheik-abdullah-p-ms-projects.vercel.app         |
-| [Text-to-Image Gen AI](https://github.com/sheikabdullahpm/text-to-image-gen-ai)                       | React, LLMs  | https://text-to-image-gen-ai-git-main-sheik-abdullah-p-ms-projects.vercel.app |
-| [AI Career Path](https://github.com/sheikabdullahpm/ai-careerpath)                                    | Next, Node   | Live Demo                                                                     |
-| [Smart Hostel & Mess Management](https://github.com/sheikabdullahpm/smart-hostel-and-mess-management) | React, MUI   | https://smart-hostel-and-mess-management.vercel.app                           |
+### 🔥 Featured Projects | Project | Tech Stack | Demo | |---------|------------|------| 
+|[Learning & Assessment Portal](https://github.com/sheikabdullahpm/learning-and-assessment-portal) | MERN, JS | [Live Demo](#) |
+| [Mental Health Support](https://github.com/sheikabdullahpm/mental-health-support) | React, Flask | [Live Demo](https://mental-health-support-sheik-abdullah-p-ms-projects.vercel.app/welcome) | 
+| [Text-to-Image Gen AI](https://github.com/sheikabdullahpm/text-to-image-gen-ai) | React, LLMs | [Live Demo](https://text-to-image-gen-ai-git-main-sheik-abdullah-p-ms-projects.vercel.app/) |
+| [AI Career Path](https://github.com/sheikabdullahpm/ai-careerpath) | Next, Node | [Live Demo](#) |
+| [Smart Hostel & Mess Management](https://github.com/sheikabdullahpm/smart-hostel-and-mess-management) | React , MUI | [Live Demo](https://smart-hostel-and-mess-management.vercel.app/) | 
 
 ---
 
@@ -98,9 +95,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SHEIKABDULLAHPM
+&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikabdullahpm&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHEIKABDULLAHPM
+&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -150,4 +149,4 @@
 
 # 📈 Contribution Snake
 
-![Snake animation](https://github.com/sheikabdullahpm/sheikabdullahpm/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sheikabdullahpm/SHEIKABDULLAHPM/blob/output/github-contribution-grid-snake.svg)
