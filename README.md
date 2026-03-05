@@ -81,8 +81,7 @@
 
 ### 📊 GitHub Stats
 
-[![Sheik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikabdullahpm)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikabdullahpm&theme=radical&area=true)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikabdullahpm&bg_color=0d1117&color=1abc9c&line=ffffff&point=ff6347&area=true)
 
 ---
 
