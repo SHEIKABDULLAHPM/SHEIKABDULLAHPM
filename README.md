@@ -6,9 +6,7 @@
 🌱 Currently exploring **DSA, AI/ML & Web Development**  
 🚀 Transforming ideas into **impactful software**
 
-[<img src="https://komarev.com/ghpvc/?username=sheikabdullahpm&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd0dWcxcDNlbndxcGhzM2dzYzRxdjhwOXBzeXplOWQ3amEzNnAzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
----
+
 
 ### 🔗 Connect with Me
 
