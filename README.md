@@ -6,7 +6,11 @@
 🌱 Currently exploring **DSA, AI/ML & Web Development**  
 🚀 Transforming ideas into **impactful software**
 
+<p align="center">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
+</p>
 
+---
 
 ### 🔗 Connect with Me
 
@@ -36,6 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60"/>
 </p>
 
+### 🚀 3D Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,react,nodejs,spring,mongodb,mysql,firebase&theme=dark" />
+</p>
+
 ---
 
 ### IDEs / Tools
@@ -48,6 +58,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/>
+</p>
+
+### ⚙️ 3D Tools & IDEs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij,eclipse,git,github,figma,notion&theme=dark" />
 </p>
 
 ---
