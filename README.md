@@ -65,10 +65,9 @@ Mindset    : "Code is craft. Ship with purpose."
 
 ### 🎨 Creative Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,ai&theme=dark" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
 </p>
 
