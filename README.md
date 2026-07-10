@@ -119,8 +119,7 @@ Mindset    : "Code is craft. Ship with purpose."
 
 <!-- Profile Summary (auto theme) -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikabdullahpm&theme=default" width="90%" />
-
-<div align="center"> <!-- Profile Summary (auto theme) --> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikabdullahpm&theme=default" width="90%" /> <br/><br/> <!-- Stats + Streak (auto theme) --> <img src="https://github-readme-stats-fast.vercel.app/api?username=sheikabdullahpm&show_icons=true&theme=default&hide_border=true" width="48%" /> <img src="https://streak-stats.demolab.com?user=sheikabdullahpm&theme=default&hide_border=true" width="48%" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikabdullahpm&theme=github_dark&hide_border=true&layout=compact" height="180"/> <br/> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheikabdullahpm&theme=github-dark&hide_border=true) <br/> ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikabdullahpm&bg_color=0d1117&color=00FFD1&line=ffffff&point=ff6347&area=true&hide_border=true) </div>
 
 
 </div>
