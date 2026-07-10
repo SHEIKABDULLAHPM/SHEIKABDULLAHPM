@@ -46,59 +46,62 @@ Mindset    : "Code is craft. Ship with purpose."
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark" />
 
 ### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,mui,bootstrap&theme=dark" />
 
 ### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,mongodb,mysql,firebase&theme=dark" />
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman&theme=dark" />
+
+### 🛠️ Tools & IDEs
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,linux,githubactions&theme=dark" />
+
+### 🎨 Creative Tools
 <p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
 </p>
 
-### 🧰 Tools & IDEs
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Live Projects
 
-<div align="center">
+<p align="center">
 
-| 🏗️ Project | 🔧 Stack | 🌐 Live |
-|:---|:---|:---:|
-| [🎓 Learning & Assessment Portal](https://github.com/sheikabdullahpm/learning-and-assessment-portal) | MERN · JavaScript | [Demo](#) |
-| [🧠 Mental Health Support](https://github.com/sheikabdullahpm/mental-health-support) | React · Flask · AI | [Live ↗](https://mental-health-support-sheik-abdullah-p-ms-projects.vercel.app/welcome) |
-| [🎨 Text-to-Image Gen AI](https://github.com/sheikabdullahpm/text-to-image-gen-ai) | React · LLMs · GenAI | [Live ↗](https://text-to-image-gen-ai-git-main-sheik-abdullah-p-ms-projects.vercel.app/) |
-| [🤖 AI Career Path](https://github.com/sheikabdullahpm/ai-careerpath) | Next.js · Node.js | [Demo](#) |
-| [🏠 Smart Hostel & Mess Management](https://github.com/sheikabdullahpm/smart-hostel-and-mess-management) | React · MUI | [Live ↗](https://smart-hostel-and-mess-management.vercel.app/) |
+<a href="https://github.com/sheikabdullahpm/learning-and-assessment-portal" target="_blank">
+  <img src="https://img.shields.io/badge/🎓%20Learning%20%26%20Assessment%20Portal-MERN%20%7C%20JavaScript-1f1f1f?style=for-the-badge" />
+</a>
 
-</div>
+<a href="https://mental-health-support-sheik-abdullah-p-ms-projects.vercel.app/welcome" target="_blank">
+  <img src="https://img.shields.io/badge/🧠%20Mental%20Health%20Support-React%20%7C%20Flask%20%7C%20AI-1f1f1f?style=for-the-badge" />
+</a>
+
+<a href="https://text-to-image-gen-ai-git-main-sheik-abdullah-p-ms-projects.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🎨%20Text--to--Image%20GenAI-React%20%7C%20LLMs%20%7C%20GenAI-1f1f1f?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/sheikabdullahpm/ai-careerpath" target="_blank">
+  <img src="https://img.shields.io/badge/🤖%20AI%20Career%20Path-Next.js%20%7C%20Node.js-1f1f1f?style=for-the-badge" />
+</a>
+
+<a href="https://smart-hostel-and-mess-management.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🏠%20Smart%20Hostel%20%26%20Mess%20Management-React%20%7C%20MUI-1f1f1f?style=for-the-badge" />
+</a>
+
+</p>
+
+<br/>
 
 ---
 
@@ -120,7 +123,7 @@ Mindset    : "Code is craft. Ship with purpose."
 <div align="center">
 
 <!-- Profile Summary (auto theme) -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikabdullahpm&theme=default" width="95%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikabdullahpm&theme=default" width="90%" />
 
 <br/><br/>
 
