@@ -1,184 +1,42 @@
-<div align="center">
+### PEER SHEIK ABDULLAH MOHD NOORDEEN
 
-<!-- 3D Animated Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="3D Coding Animation"/>
-
-<br/>
-
-<!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sheik+Abdullah+%F0%9F%91%8B;Aspiring+Software+Engineer;B.Tech+CSBS+%7C+AI%2FML+%7C+Full+Stack;Building+Impactful+Software+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peer-sheik-abdullah-mohd-noordeen-b97148276/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unary_man/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF69B4.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sheikabdullahpm.github.io/sheik-portfolio/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sheikabdullahpm)
-
-</div>
-
----
-
-## 🧬 About Me
-
-```yaml
-Name       : Sheik Abdullah (Peer Sheik Abdullah Mohd Noordeen)
-Role       : Aspiring Software Engineer
-Degree     : B.Tech — Computer Science & Business Systems (CSBS)
-Focus      : DSA · AI/ML · Full Stack Web Development
-Currently  : Building impactful products and learning every day
-Mindset    : "Code is craft. Ship with purpose."
+```javascript
+const peerSheik = {
+  pronouns: "He" | "Him",
+  code: ["Java", "Python", "JavaScript", "HTML"],
+  askMeAbout: ["Java Full Stack Development", "AI-powered Applications"],
+  technologies: {
+    backend: ["Spring Boot", "Node.js"],
+    frontend: ["React", "Angular"],
+    databases: ["MySQL", "MongoDB"],
+    devOps: ["Docker", "AWS"],
+    ai: ["TensorFlow", "PyTorch"]
+  },
+  currentFocus: "Exploring AI in Web Development",
+  funFact: "The best way to predict the future is to create it."
+};
 ```
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+### GitHub Profile Overview
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SHEIKABDULLAHPM)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHEIKABDULLAHPM)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SHEIKABDULLAHPM)](https://github.com/SHEIKABDULLAHPM)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SHEIKABDULLAHPM)](https://git.io/streak-stats)
 
-- 🔭 Working on **AI-powered full stack projects**
-- 🌱 Deepening expertise in **DSA, MERN & AI/ML**
-- 💡 Passionate about building tools that **solve real problems**
-- 🏆 Oracle Certified: **Java SE 17 Professional** & **OCI AI Foundations**
-- 📫 Reach me at **LinkedIn** or explore my **Portfolio**
-- ⚡ Fun fact: I debug with coffee ☕ and curiosity 🔍
+### Summary
+Peer Sheik Abdullah Mohd Noordeen is a B.Tech student with a passion for Java Full Stack Development and AI-powered applications. With 186 commits across 24 public repositories, his expertise lies in Java, Python, and JavaScript. Notable projects include "MukeshR-prog," "Document-intelligence," and "ml-faculty-analyzer" focusing on software configurations, document intelligence, and faculty analysis.
 
-<br clear="right"/>
+### Skills and Technologies
+- Java • Python • JavaScript • HTML
+- Spring Boot • Node.js • React • Angular
+- MySQL • MongoDB • Docker • AWS
+- TensorFlow • PyTorch
 
----
+### Get in Touch
+- LinkedIn: [Peer Sheik Abdullah Mohd Noordeen](https://www.linkedin.com/in/peer-sheik-abdullah-mohd-noordeen)
+- GitHub: [SHEIKABDULLAHPM](https://github.com/SHEIKABDULLAHPM)
 
-## 🛠️ Tech Stack
+### Let's Connect!
+Feel free to reach out for collaboration opportunities or to discuss exciting tech projects. Happy coding! 🚀
 
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark" />
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,mui,bootstrap&theme=dark" />
-
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,mongodb,mysql,firebase&theme=dark" />
-
-### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman&theme=dark" />
-
-### 🛠️ Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,linux,githubactions&theme=dark" />
-
-### 🎨 Creative Tools
-<p>
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-## 🚀 Live Projects
-
-<p align="center">
-
-<a href="https://github.com/sheikabdullahpm/learning-and-assessment-portal" target="_blank">
-  <img src="https://img.shields.io/badge/🎓%20Learning%20%26%20Assessment%20Portal-MERN%20%7C%20JavaScript-1f1f1f?style=for-the-badge" />
-</a>
-
-<a href="https://mental-health-support-sheik-abdullah-p-ms-projects.vercel.app/welcome" target="_blank">
-  <img src="https://img.shields.io/badge/🧠%20Mental%20Health%20Support-React%20%7C%20Flask%20%7C%20AI-1f1f1f?style=for-the-badge" />
-</a>
-
-<a href="https://text-to-image-gen-ai-git-main-sheik-abdullah-p-ms-projects.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🎨%20Text--to--Image%20GenAI-React%20%7C%20LLMs%20%7C%20GenAI-1f1f1f?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/sheikabdullahpm/ai-careerpath" target="_blank">
-  <img src="https://img.shields.io/badge/🤖%20AI%20Career%20Path-Next.js%20%7C%20Node.js-1f1f1f?style=for-the-badge" />
-</a>
-
-<a href="https://smart-hostel-and-mess-management.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🏠%20Smart%20Hostel%20%26%20Mess%20Management-React%20%7C%20MUI-1f1f1f?style=for-the-badge" />
-</a>
-
-</p>
-
-<br/>
-
----
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Badge | Certification |
-|:---:|:---|
-| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=317D506B43124425278B19D0E39CA255F0C52002EEE44F28D5A34D90FE262F76"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE17.png" height="90"/></a> | **Oracle Certified Professional** — Java SE 17 Developer |
-| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=47DE7E70BAA39A7EBE70C30C801F39FD52C3690A2DCD7589D2BAEB9E6560D1FA"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" height="90"/></a> | **Oracle Cloud Infrastructure** — AI Foundations Associate |
-
-</div>
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<!-- Profile Summary (auto theme) -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikabdullahpm&theme=default" width="90%" />
-
-<br/><br/>
-
-<!-- Stats + Streak (auto theme) -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=sheikabdullahpm&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=sheikabdullahpm&theme=default&hide_border=true" width="48%" />
-
-</div>
----
-
-## 🧠 LeetCode Progress
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sheikabdullahpm?theme=dark&font=Fira+Code&ext=heatmap)
-
-</div>
-
----
-
-## 💻 Workspace
-
-<div align="center">
-
-![Lenovo](https://img.shields.io/badge/Lenovo_IdeaPad_Gaming_3-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![AMD](https://img.shields.io/badge/AMD_Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-```
-📌  Advanced DSA & Competitive Programming
-📌  MERN Stack + AI/ML Integration
-📌  System Design & Architecture
-📌  Mobile App Development (React Native)
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Build Something Great Together!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sheikabdullahpm&label=Profile+Views&color=00FFD1&style=flat-square)
-
-</div>
+![Wave GIF](https://media.giphy.com/media/3o7aDeU1JXA03XB2HC/giphy.gif)
