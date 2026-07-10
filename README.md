@@ -121,8 +121,6 @@ Mindset    : "Code is craft. Ship with purpose."
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikabdullahpm&theme=default" width="90%" />
 
 </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sheikabdullahpm&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikabdullahpm&theme=github_dark&hide_border=true&layout=compact" height="180"/> <br/> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheikabdullahpm&theme=github-dark&hide_border=true) <br/> ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sheikabdullahpm&bg_color=0d1117&color=00FFD1&line=ffffff&point=ff6347&area=true&hide_border=true) </div>
-
 
 ## 🧠 LeetCode Progress
 
