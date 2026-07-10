@@ -118,13 +118,13 @@ Mindset    : "Code is craft. Ship with purpose."
 <div align="center">
 
 <!-- Profile Summary (auto theme) -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikabdullahpm&theme=default" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikabdullahpm&theme=default" width="90%" />
 
 <br/><br/>
 
 <!-- Stats + Streak (auto theme) -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=sheikabdullahpm&show_icons=true&theme=default&hide_border=true" width="50%" />
-<img src="https://streak-stats.demolab.com?user=sheikabdullahpm&theme=default&hide_border=true" width="50%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sheikabdullahpm&show_icons=true&theme=default&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=sheikabdullahpm&theme=default&hide_border=true" width="48%" />
 
 </div>
 
