@@ -1,9 +1,17 @@
-<a href="https://github.com/sheikabdullahpm">
+<div align="center">
 
-    <!-- Light Mode -->
+<a href="https://github.com/sheikabdullahpm">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sheikabdullahpm/sheikabdullahpm/main/dark_mode.svg"
+    />
     <img
-      alt="Sheik Abdullah's GitHub Profile README"
-      src="https://raw.githubusercontent.com/sheikabdullahpm/sheikabdullahpm/main/light_mode.svg"
+      src="https://raw.githubusercontent.com/sheikabdullahpm/sheikabdullahpm/main/white_mode.svg"
+      alt="Sheik Abdullah GitHub Banner"
+      width="100%"
     />
   </picture>
 </a>
+
+</div>
