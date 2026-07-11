@@ -2,21 +2,19 @@
 
 <a href="https://github.com/sheikabdullahpm">
   <picture>
-    <!-- Dark Mode -->
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./dark_mode.svg"
+      srcset="https://raw.githubusercontent.com/sheikabdullahpm/sheikabdullahpm/main/dark_mode.svg"
     />
-
-    <!-- Light Mode -->
     <img
+      src="https://raw.githubusercontent.com/sheikabdullahpm/sheikabdullahpm/main/white_mode.svg"
       alt="Sheik Abdullah GitHub Profile Banner"
-      src="./white_mode.svg"
       width="100%"
     />
   </picture>
 </a>
 
+</div>
 <!-- 3D Animated Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="3D Coding Animation"/>
 
