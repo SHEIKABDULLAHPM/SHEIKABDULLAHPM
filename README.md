@@ -79,7 +79,7 @@ Mindset    : "Code is craft. Ship with purpose."
   <img src="https://img.shields.io/badge/🎓%20Learning%20%26%20Assessment%20Portal-MERN%20%7C%20JavaScript-1f1f1f?style=for-the-badge" />
 </a>
 
-<a href="https://mental-health-support-sheik-abdullah-p-ms-projects.vercel.app/welcome" target="_blank">
+<a href="https://sheikabdullahpm.github.io/mental-health-support/welcome" target="_blank">
   <img src="https://img.shields.io/badge/🧠%20Mental%20Health%20Support-React%20%7C%20Flask%20%7C%20AI-1f1f1f?style=for-the-badge" />
 </a>
 
