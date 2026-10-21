@@ -13,7 +13,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peer-sheik-abdullah-mohd-noordeen-b97148276/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unary_man/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hey_sheik/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF69B4.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sheikabdullahpm.github.io/sheik-portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sheikabdullahpm)
 
